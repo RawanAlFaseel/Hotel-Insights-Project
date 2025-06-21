@@ -20,6 +20,12 @@ This project presents a deep dive into guest behavior and booking patterns at Gl
 ## 🌐 Live Interactive Dashboard
 👉 [https://app.powerbi.com/groups/me/reports/74afcc58-44d2-44cf-8366-9fd37bfa66b4/ba10d663aca347742c0b?experience=power-bi&bookmarkGuid=6f8272c00aac05519b96]
 
+## 📁 Files Included
+- Hotel Insights Project.zip include 3 files 
+- 1 `Hotel Insights Project.pbix`: Power BI file containing data model, transformations, and visuals.
+- 2 `hotel_booking.csv`: Raw dataset containing detailed hotel booking records used for analysis.
+- 3 `hotel_reviews (1).txt`: Text file containing guest reviews data.
+
 ## 🛠️ Tools & Skills Used
 
 - Microsoft Power BI
