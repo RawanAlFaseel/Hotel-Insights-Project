@@ -20,7 +20,7 @@ This project presents a deep dive into guest behavior and booking patterns at Gl
 - **Booking Timeline** – Visualization of booking activity over time.
 
   ## 🌐 Live Interactive Dashboard
-👉 [Click here to view the Power BI dashboard]((https://app.powerbi.com/groups/me/reports/74afcc58-44d2-44cf-8366-9fd37bfa66b4/53c5284ccb1d640f6247?experience=power-bi&bookmarkGuid=6f8272c00aac05519b96) )
+👉 [Click here to view the Power BI dashboard][https://app.powerbi.com/groups/me/reports/74afcc58-44d2-44cf-8366-9fd37bfa66b4/53c5284ccb1d640f6247?experience=power-bi&bookmarkGuid=6f8272c00aac05519b96]
 
 ## 🛠️ Tools & Skills Used
 
