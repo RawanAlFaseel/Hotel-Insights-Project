@@ -4,7 +4,7 @@
 - **Tool Used:** Microsoft Power BI
 - **Data Preparation:** All data cleaning and transformation were done using Power Query within Power BI.
 - **Objective:** Analyze booking data to understand guest preferences, behaviors, and overall booking trends.
-- 
+  
 ## 🔍 Dashboard Structure & Key Insights
 
 ### 🔹 Insights Part 1:
