@@ -32,3 +32,11 @@ A ZIP file named **Hotel Insights Project.zip** contains the following three fil
 1. `Hotel Insights Project.pbix` – Power BI file with all visuals, transformations, and report structure.  
 2. `hotel_booking.csv` – Raw dataset containing detailed hotel booking records used for analysis.  
 3. `hotel_reviews (1).txt` – Text file with guest reviews used to analyze customer satisfaction.
+
+## 📥 To download the file:
+
+Click the file name on the left (Hotel Insights Project.zip)
+
+Then click "View raw" in the middle of the page
+
+The download will begin automatically
